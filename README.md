@@ -1,0 +1,2 @@
+# MUSIMAN
+MUltiple SImulations MANagement

@@ -1,5 +1,5 @@
 # MUSIMAN
-MUltiple SImulations MANagement
+MUltiple SImulations MANagement v. 1.0
 
 The Monte Carlo code for radiation transport PENELOPE 2014 [1] includes an auxiliary program named penmain-sum to combine the results of independent runs of the same simulation problem allowing to use multiple computing cores simultaneously. Thus, the simulation efficiency increases linearly with the available number of cores. Each independent run produces a dump file with the partial results of the simulation with accumulated statistics. The tool penmain-sum combines all dump files to get the final results of the simulation.
 

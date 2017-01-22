@@ -11,7 +11,7 @@ The process of manually generating the simulation files needed for multiple inde
 
 3. Preparing the dump files to be combined with penmain-sum to obtain the final results of the simulation.
 
-In summary, the MUSIMAN package is a software tool to ease the parallelization of simulations run with the Monte Carlo code PENELOPE 2014 that use penmain as steering main program. Detailed instructions and examples of use are included in the file Instructions_for_use.pdf.
+In summary, the MUSIMAN package is a software tool to ease the parallelization of simulations run with the Monte Carlo code PENELOPE 2014 that use penmain as steering main program. Detailed instructions are included in the file Instructions.pdf.
 
 MUSIMAN was developed to speed-up some of the simulations from the doctoral dissertation of the author. If you find this tool useful for your research, please use this citation:
 

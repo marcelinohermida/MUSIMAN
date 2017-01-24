@@ -15,7 +15,7 @@ In summary, the MUSIMAN package is a software tool to ease the parallelization o
 
 MUSIMAN was developed to speed-up some of the simulations from the doctoral dissertation of the author. If you find this tool useful for your research, please use this citation:
 
-M. Hermida-López, Improvements to the dosimetry of 106Ru/106Rh ophthalmic plaques: Monte Carlo simulations and radiochromic film measurements. Doctoral dissertation (Universität Duisburg-Essen, 2016). DOI: 10.13140/RG.2.2.29543.04009. Available at https://www.researchgate.net/publication/312578357_Improvements_to_the_dosimetry_of_106Ru106Rh_ophthalmic_plaques_Monte_Carlo_simulations_and_radiochromic_film_measurements
+M. Hermida-López, Improvements to the dosimetry of 106Ru/106Rh ophthalmic plaques: Monte Carlo simulations and radiochromic film measurements. Doctoral dissertation (Universität Duisburg-Essen, 2016). Available at http://duepublico.uni-duisburg-essen.de/servlets/DocumentServlet?id=43110&lang=en
 
 
 Enjoy your simulations!
